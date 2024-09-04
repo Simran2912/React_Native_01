@@ -15,6 +15,7 @@ const commonStyles = () => {
         title: {
             fontSize: 30,
             fontWeight: '700',
+            color:'#000'
         },
         todoInputContainer: {
             width: '100%',
@@ -70,7 +71,7 @@ const commonStyles = () => {
         listItem:{
             fontSize:16,
             fontWeight:'700',
-            color:'#ooo',
+            color:'#000',
         },
         buttonContainer:{
             width:'30%',

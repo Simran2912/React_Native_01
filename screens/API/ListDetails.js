@@ -80,7 +80,7 @@ const ListDetails = ({ route }) => {
     const renderEmpty = () => {
         return (
           <View style={styles.renderEmptyList}>
-            <Text>No data found</Text>
+            <Text style={styles.cardData}>No data found</Text>
           </View>
         );
       };

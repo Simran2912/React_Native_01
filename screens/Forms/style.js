@@ -15,6 +15,7 @@ const commonStyles = ()=>{
         title:{
             fontSize:30,
             fontWeight:'700',
+            color:'#000'
         },
         bottomButton:{
             bottom:0,

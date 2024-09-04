@@ -56,7 +56,7 @@ const commonStyles = ()=>{
         cardData:{
             fontSize:16,
             fontWeight:'700',
-            color:'#ooo',
+            color:'#000',
         },
         renderEmptyList:{
             flex: 1,

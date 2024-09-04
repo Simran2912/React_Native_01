@@ -112,6 +112,7 @@ const FormScreen = () => {
                                 <Icon
                                     name={'dialpad'}
                                     size={22}
+                                    color={'#BF2EF0'}
                                     style={styles.icon}
                                 />
                             } />
@@ -128,6 +129,7 @@ const FormScreen = () => {
                                     name={!showPassword ? 'eye-off' : 'eye'}
                                     size={25}
                                     style={styles.icon}
+                                    color={'#BF2EF0'}
                                     onPress={passwordShowHandler}
                                 />
                             }
