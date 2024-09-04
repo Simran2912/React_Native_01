@@ -7,6 +7,7 @@ import { useNavigation } from '@react-navigation/native';
 const APILists = () => {
     const styles = commonStyles();
     const navigation = useNavigation();
+    
     return (
         <View style={styles.container}>
             <View style={styles.listContainer}>
